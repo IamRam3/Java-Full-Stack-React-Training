@@ -1,1 +1,1 @@
-# Wipro_Training
+# Class assessments are found in this repo.
