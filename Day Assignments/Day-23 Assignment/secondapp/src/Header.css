@@ -1,0 +1,17 @@
+.nursery-header{
+  position:sticky;
+  top:0;
+  z-index:5;
+  background:linear-gradient(180deg, var(--brand) 0%, var(--brand-600) 100%);
+  color:#fff;
+  text-align:center;
+  padding:26px 16px;
+  box-shadow:0 2px 12px rgba(0,0,0,.12);
+}
+
+.nursery-header h1{
+  margin:0;
+  font-size:clamp(24px, 3vw, 42px);
+  letter-spacing:.5px;
+  font-weight:800;
+}

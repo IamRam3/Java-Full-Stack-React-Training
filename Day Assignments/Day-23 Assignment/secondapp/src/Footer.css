@@ -1,0 +1,14 @@
+.nursery-footer{
+  margin-top:auto;
+  background: linear-gradient(180deg, #1e3f1e, #1a351a);
+  color:#eaf5ea;
+  text-align:center;
+  padding:18px 12px;
+  border-top:1px solid rgba(255,255,255,.08);
+}
+
+.nursery-footer p{
+  margin:0;
+  font-size:14px;
+  letter-spacing:.2px;
+}
